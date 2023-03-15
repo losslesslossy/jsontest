@@ -1,0 +1,117 @@
+{
+
+ 
+  "applovin_banner_id": "xxxxxx",
+  "applovin_interstitial_id": "xxxxxx",
+  "applovin_native_id": "xxxxxx",
+  "applovin_rewarded_id": "xxxxxx",
+  "max": true,
+  
+  "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
+  
+  "startapp_id": "xxxxxxxx",
+
+  "Interstitial": "xxx",
+  "Banner": "xxx",
+  "Native": "xxx",
+  "Rewarded": "xxx",
+  
+  
+  "main_inter": true,
+  "os_inter": true,
+  "gender_inter": true,
+  "age_inter": true,
+  "setup_inter": true,
+  
+  "rate": false,
+  
+  "clicks_to_show_inter": 2,
+  "native_rate": 2,
+  
+   "show_cpa": false,
+  "cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
+  "cpa_url": "https://fr.uoldown.com/android/free-fire-hack-diamond-and-coins/download",
+  "cpa_button_text": "Get It Now!",
+  
+  "rating_exit_popup": false,
+  
+  "onesignal_id": "xxxxxxx",
+  
+  "app_suspended": false,
+  "suspended_title": "A new update for this app is available.",
+  "suspended_message": "Update this app because this version has some issues.",
+  "suspended_URL": "xxxx",
+
+
+  "guides": [
+	{
+	 "image": "https://c.top4top.io/p_2630fjp8m1.png",
+	 "title": "User Interface and Navigation",
+	 "text": "Shashtk TV's user interface is simple and user-friendly. It is designed to provide an easy navigation experience for users to find their desired content. The app's homepage features different categories, including News, Lifestyle, Sports, and more. Users can easily scroll through the categories and select their preferred shows.
+",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 1
+
+	},
+	{
+	 "image": "https://c.top4top.io/p_2630fjp8m1.png",
+	 "title": "Live TV Channels",
+	 "text": "The Shashtk TV app offers a range of live TV channels that users can watch in real-time. From news channels to sports channels, from entertainment channels to music channels, the app has a wide selection of live TV channels. Users can easily switch between channels and enjoy their favorite shows.
+",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 2
+	 
+	},
+	{
+	 "image": "https://c.top4top.io/p_2630fjp8m1.png",
+	 "title": "Video-on-Demand Content",
+	 "text": "Apart from live TV channels, Shashtk TV also offers a vast library of video-on-demand content. This includes TV shows, movies, documentaries, and more. Users can select their preferred content from the app's library and watch it at their convenience.
+",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 3
+
+	},
+	{
+	"image": "https://c.top4top.io/p_2630fjp8m1.png",
+	 "title": "Personalization",
+	 "text": "Shashtk TV app allows users to personalize their viewing experience. Users can create a profile and save their favorite channels and shows. The app also recommends content based on the user's viewing history and preferences.
+",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 4
+
+	},
+	{
+	"image": "https://c.top4top.io/p_2630fjp8m1.png",
+	 "title": "Multi-Device Streaming",
+	 "text": "Shashtk TV app allows users to stream content on multiple devices simultaneously. This means that users can watch their favorite shows on their TV, phone, or tablet, all at the same time.
+",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 5
+
+	},
+	{
+	"image": "https://c.top4top.io/p_2630fjp8m1.png",
+	 "title": "Offline Viewing",
+	 "text": "The Shashtk TV app offers an offline viewing feature that allows users to download their favorite shows and watch them later without an internet connection. This is especially useful for users who travel frequently or have limited access to the internet.
+",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 6
+
+	}
+  ]  
+}

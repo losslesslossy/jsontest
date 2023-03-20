@@ -1,10 +1,10 @@
 {
 
  
-	"applovin_banner_id": "xxxxxx",
-	"applovin_interstitial_id": "xxxxxx",
-	"applovin_native_id": "xxxxxx",
-	"applovin_rewarded_id": "xxxxxx",
+	"applovin_banner_id": "a6e36530895f07e0",
+	"applovin_interstitial_id": "af8aca3defbc33d4",
+	"applovin_native_id": "6bb6905367713d20",
+	"applovin_rewarded_id": "2c275b0c601f0cbc",
 	"max": true,
 	
 	"facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -14,10 +14,10 @@
 	
 	"startapp_id": "211854561",
   
-	"Interstitial": "xxxxxxxx",
-	"Banner": "xxxxxxxx",
-	"Native": "xxx",
-	"Rewarded": "xxxxxxxx",
+	"Interstitial": "max",
+	"Banner": "max",
+	"Native": "max",
+	"Rewarded": "max",
 	
 	
 	"main_inter": true,
@@ -31,7 +31,7 @@
 	"clicks_to_show_inter": 1,
 	"native_rate": 2,
 	
-	 "show_cpa": false,
+	 "show_cpa": true,
 	"cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
 	"cpa_url": "https://fr.uoldown.com/android/free-fire-hack-diamond-and-coins/download",
 	"cpa_button_text": "Get It Now!",
@@ -54,7 +54,7 @@
 ",
 	   "text_two": " ",
   
-	   "isLocked": false,
+	   "isLocked": true,
 	   "id": 1
   
 	  },
@@ -76,7 +76,7 @@
 ",
 	   "text_two": " ",
   
-	   "isLocked": false,
+	   "isLocked": true,
 	   "id": 3
   
 	  },
@@ -98,7 +98,7 @@
 ",
 	   "text_two": " ",
   
-	   "isLocked": false,
+	   "isLocked": true,
 	   "id": 5
   
 	  },

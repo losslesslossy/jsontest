@@ -26,7 +26,7 @@
 	"age_inter": true,
 	"setup_inter": true,
 	
-	"rate": false,
+	"rate": true,
 	
 	"clicks_to_show_inter": 1,
 	"native_rate": 2,

@@ -1,10 +1,10 @@
 {
 
  
-	"applovin_banner_id": "xxxxxx",
-	"applovin_interstitial_id": "xxxxxx",
-	"applovin_native_id": "xxxxxx",
-	"applovin_rewarded_id": "xxxxxx",
+	"applovin_banner_id": "758ce7b6ac9bf404",
+	"applovin_interstitial_id": "5644bf1e6ce74ff1",
+	"applovin_native_id": "f1532db242d25d28",
+	"applovin_rewarded_id": "6d7ccc34dbdb664f",
 	"max": true,
 	
 	"facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -14,10 +14,10 @@
 	
 	"startapp_id": "211854561",
   
-	"Interstitial": "xxxxxxxx",
-	"Banner": "xxxxxxxx",
-	"Native": "xxx",
-	"Rewarded": "xxxxxxxx",
+	"Interstitial": "applovin",
+	"Banner": "applovin",
+	"Native": "applovin",
+	"Rewarded": "applovin",
 	
 	
 	"main_inter": true,
@@ -26,14 +26,14 @@
 	"age_inter": true,
 	"setup_inter": true,
 	
-	"rate": false,
+	"rate": true,
 	
 	"clicks_to_show_inter": 1,
 	"native_rate": 2,
 	
-	 "show_cpa": false,
+	 "show_cpa": true,
 	"cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
-	"cpa_url": "https://fr.uoldown.com/android/free-fire-hack-diamond-and-coins/download",
+	"cpa_url": "https://smrturl.co/863b5d2",
 	"cpa_button_text": "Get It Now!",
 	
 	"rating_exit_popup": false,
@@ -49,8 +49,8 @@
 	"guides": [
 	  {
 	   "image": "https://h.top4top.io/p_2635x51fz1.png",
-	   "title": "yyyy",
-	   "text": "xxxx",
+	   "title": "Introduction",
+	   "text": "Bacakomik Indonesia V14 is an Indonesian comic reading application that provides a vast collection of local and international comics. The application is easy to use and can be downloaded for free on both Android and iOS devices. With Bacakomik, you can read your favorite comics anytime and anywhere!",
 	   "text_two": " ",
   
 	   "isLocked": false,
@@ -59,8 +59,8 @@
 	  },
 	  {
 	   "image": "https://h.top4top.io/p_2635x51fz1.png",
-	   "title": "xxxx",
-	   "text": "xxxx",
+	   "title": "Browsing and Searching for Comics",
+	   "text": "To browse comics, simply scroll through the home screen or use the search bar to find a specific comic. You can also filter comics by category, popularity, and latest updates. If you’re not sure what to read, you can explore the “Recommended” section, which suggests comics based on your reading history.",
 	   "text_two": " ",
   
 	   "isLocked": false,
@@ -69,8 +69,8 @@
 	  },
 	  {
 	   "image": "https://h.top4top.io/p_2635x51fz1.png",
-	   "title": "xxxx",
-	   "text": "xxxx",
+	   "title": "Reading Comics",
+	   "text": "Once you’ve found a comic you want to read, tap on it to open it. You can swipe left or right to change pages, or use the scrollbar at the bottom to jump to a specific page. If you want to save a comic for later, you can add it to your “Favorites” list. You can also adjust the brightness and font size to make reading more comfortable.",
 	   "text_two": " ",
   
 	   "isLocked": false,
@@ -79,8 +79,8 @@
 	  },
 	  {
 	  "image": "https://h.top4top.io/p_2635x51fz1.png",
-	   "title": "xxxx",
-	   "text": "xxxx",
+	   "title": "Creating a Bacakomik Account",
+	   "text": "To access additional features, such as bookmarking your progress and leaving comments, you can create a Bacakomik account. To do so, tap on the “Profile” icon at the bottom right of the screen and select “Sign Up”. You can then create an account using your email address or social media account.",
 	   "text_two": " ",
   
 	   "isLocked": false,
@@ -89,8 +89,8 @@
 	  },
 	  {
 	  "image": "https://h.top4top.io/p_2635x51fz1.png",
-	   "title": "xxxx",
-	   "text": "xxxx",
+	   "title": "Purchasing Coins and Subscriptions",
+	   "text": "Bacakomik uses a coin system for purchasing and reading premium comics. You can purchase coins using the in-app store or by redeeming gift cards. You can also subscribe to Bacakomik to access premium comics without using coins. To do so, tap on the “Profile” icon and select “BacaPlus”.",
 	   "text_two": " ",
   
 	   "isLocked": false,
@@ -99,8 +99,8 @@
 	  },
 	  {
 	  "image": "https://h.top4top.io/p_2635x51fz1.png",
-	   "title": "xxxx",
-	   "text": "xxxx",
+	   "title": "Reporting Bugs and Issues",
+	   "text": "If you encounter any issues or bugs while using Bacakomik, you can report them to the Bacakomik team. To do so, tap on the “Profile” icon and select “Help & Feedback”. You can then describe the issue you’re having and attach a screenshot if necessary. The Bacakomik team will then investigate the issue and work on a solution.",
 	   "text_two": " ",
   
 	   "isLocked": false,

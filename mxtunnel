@@ -1,10 +1,10 @@
 {
 
  
-	"applovin_banner_id": "xxxxxx",
-	"applovin_interstitial_id": "xxxxxx",
-	"applovin_native_id": "xxxxxx",
-	"applovin_rewarded_id": "xxxxxx",
+	"applovin_banner_id": "333f9bca8ab41c1c",
+	"applovin_interstitial_id": "de58e36b46b02407",
+	"applovin_native_id": "a1344c102cb32115",
+	"applovin_rewarded_id": "16e7a4c080c845d8",
 	"max": true,
 	
 	"facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -14,10 +14,10 @@
 	
 	"startapp_id": "211854561",
   
-	"Interstitial": "xxxxxxxx",
-	"Banner": "xxxxxxxx",
-	"Native": "xxx",
-	"Rewarded": "xxxxxxxx",
+	"Interstitial": "applovin",
+	"Banner": "applovin",
+	"Native": "applovin",
+	"Rewarded": "applovin",
 	
 	
 	"main_inter": true,
@@ -26,14 +26,14 @@
 	"age_inter": true,
 	"setup_inter": true,
 	
-	"rate": false,
+	"rate": true,
 	
 	"clicks_to_show_inter": 1,
 	"native_rate": 2,
 	
 	 "show_cpa": false,
-	"cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
-	"cpa_url": "https://fr.uoldown.com/android/free-fire-hack-diamond-and-coins/download",
+	"cpa_image": "https://e.top4top.io/p_26358r7941.png",
+	"cpa_url": "https://d2punpeg7vtjci.cloudfront.net/public/i_fr?it=3622058&key=16475",
 	"cpa_button_text": "Get It Now!",
 	
 	"rating_exit_popup": false,
@@ -48,9 +48,9 @@
   
 	"guides": [
 	  {
-	   "image": "xxxxx",
-	   "title": "xxxx",
-	   "text": "xxxx",
+	   "image": "https://d.top4top.io/p_263700ub01.png",
+	   "title": "What is MX Tunnel Lite?",
+	   "text": "MX Tunnel Lite is a virtual private network (VPN) that provides a secure and fast internet connection.",
 	   "text_two": " ",
   
 	   "isLocked": false,
@@ -58,9 +58,9 @@
   
 	  },
 	  {
-	   "image": "xxxxx",
-	   "title": "xxxx",
-	   "text": "xxxx",
+	   "image": "https://d.top4top.io/p_263700ub01.png",
+	   "title": "Why Use MX Tunnel Lite?",
+	   "text": "MX Tunnel Lite is a great choice if you want to access websites or online services that are not available in your region.",
 	   "text_two": " ",
   
 	   "isLocked": false,
@@ -68,9 +68,9 @@
 	   
 	  },
 	  {
-	   "image": "xxxxx",
-	   "title": "xxxx",
-	   "text": "xxxx",
+	   "image": "https://d.top4top.io/p_263700ub01.png",
+	   "title": "How to Install MX Tunnel Lite?",
+	   "text": "Installing MX Tunnel Lite is easy. You can download it from the Google Play Store or Apple App Store. Once downloaded, open the app and create an account. ",
 	   "text_two": " ",
   
 	   "isLocked": false,
@@ -78,9 +78,9 @@
   
 	  },
 	  {
-	  "image": "xxxxx",
-	   "title": "xxxx",
-	   "text": "xxxx",
+	  "image": "https://d.top4top.io/p_263700ub01.png",
+	   "title": "How to Use MX Tunnel Lite?",
+	   "text": "MX Tunnel Lite is designed to be easy to use. Once you’ve installed the app, simply open it and click on the connect button. This will connect you to the server location you’ve chosen. You can also select a specific server location from the list of available options. ",
 	   "text_two": " ",
   
 	   "isLocked": false,
@@ -88,9 +88,9 @@
   
 	  },
 	  {
-	  "image": "xxxxx",
-	   "title": "xxxx",
-	   "text": "xxxx",
+	  "image": "https://d.top4top.io/p_263700ub01.png",
+	   "title": "MX Tunnel Lite Features",
+	   "text": "MX Tunnel Lite offers a range of features that make it stand out from other VPNs. It offers fast and stable connections, allowing you to browse the internet without any lag or buffering.",
 	   "text_two": " ",
   
 	   "isLocked": false,
@@ -98,9 +98,9 @@
   
 	  },
 	  {
-	  "image": "xxxxx",
-	   "title": "xxxx",
-	   "text": "xxxx",
+	  "image": "https://d.top4top.io/p_263700ub01.png",
+	   "title": "Conclusion",
+	   "text": "In conclusion, MX Tunnel Lite is a great choice for anyone looking for a fast and secure VPN. It’s easy to install and use, and offers a range of features that make it stand out from other VPNs.",
 	   "text_two": " ",
   
 	   "isLocked": false,

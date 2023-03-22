@@ -1,10 +1,10 @@
 {
 
  
-	"applovin_banner_id": "xxxxxx",
-	"applovin_interstitial_id": "xxxxxx",
-	"applovin_native_id": "xxxxxx",
-	"applovin_rewarded_id": "xxxxxx",
+	"applovin_banner_id": "6a500b1372d4d293",
+	"applovin_interstitial_id": "3c7a837abe74aeda",
+	"applovin_native_id": "6eeaf87df7c73a0d",
+	"applovin_rewarded_id": "c687716aabdddd02",
 	"max": true,
 	
 	"facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -14,10 +14,10 @@
 	
 	"startapp_id": "211854561",
   
-	"Interstitial": "xxxxxxxx",
-	"Banner": "xxxxxxxx",
-	"Native": "xxx",
-	"Rewarded": "xxxxxxxx",
+	"Interstitial": "applovin",
+	"Banner": "applovin",
+	"Native": "applovin",
+	"Rewarded": "applovin",
 	
 	
 	"main_inter": true,
@@ -26,14 +26,14 @@
 	"age_inter": true,
 	"setup_inter": true,
 	
-	"rate": false,
+	"rate": true,
 	
 	"clicks_to_show_inter": 1,
 	"native_rate": 2,
 	
-	 "show_cpa": false,
-	"cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
-	"cpa_url": "https://fr.uoldown.com/android/free-fire-hack-diamond-and-coins/download",
+	 "show_cpa": true,
+	"cpa_image": "https://d.top4top.io/p_2637bbed31.png",
+	"cpa_url": "https://d2punpeg7vtjci.cloudfront.net/public/i_fr?it=3622089&key=7078a",
 	"cpa_button_text": "Get It Now!",
 	
 	"rating_exit_popup": false,
@@ -49,8 +49,8 @@
 	"guides": [
 	  {
 	   "image": "https://b.top4top.io/p_26358hh8j1.png",
-	   "title": "ttttt",
-	   "text": "xxxx",
+	   "title": "Introduction",
+	   "text": "If you're looking for a quick and easy way to earn some extra cash, you might want to check out Insta Money Oficial Apk.",
 	   "text_two": " ",
   
 	   "isLocked": false,
@@ -59,8 +59,8 @@
 	  },
 	  {
 	   "image": "https://b.top4top.io/p_26358hh8j1.png",
-	   "title": "xxxx",
-	   "text": "xxxx",
+	   "title": "Getting Started",
+	   "text": "To use Insta Money Oficial Apk, you'll first need to download and install the app on your phone or tablet. ",
 	   "text_two": " ",
   
 	   "isLocked": false,
@@ -69,8 +69,8 @@
 	  },
 	  {
 	   "image": "https://b.top4top.io/p_26358hh8j1.png",
-	   "title": "xxxx",
-	   "text": "xxxx",
+	   "title": "Completing Tasks",
+	   "text": "Insta Money Oficial Apk offers a variety of tasks that you can complete to earn money. Some of these tasks are very simple, such as watching a short video or clicking on an ad. ",
 	   "text_two": " ",
   
 	   "isLocked": false,
@@ -79,8 +79,8 @@
 	  },
 	  {
 	  "image": "https://b.top4top.io/p_26358hh8j1.png",
-	   "title": "xxxx",
-	   "text": "xxxx",
+	   "title": "Redeeming Your Earnings",
+	   "text": "Once you've earned some money with Insta Money Oficial Apk, you can redeem it for real cash or gift cards. The app supports a variety of payment methods, such as PayPal, Amazon gift cards, and more. ",
 	   "text_two": " ",
   
 	   "isLocked": false,
@@ -89,8 +89,8 @@
 	  },
 	  {
 	  "image": "https://b.top4top.io/p_26358hh8j1.png",
-	   "title": "xxxx",
-	   "text": "xxxx",
+	   "title": "Tips for Success",
+	   "text": "If you want to maximize your earnings with Insta Money Oficial Apk, there are a few tips you should keep in mind. First, be selective about which tasks you choose to complete. ",
 	   "text_two": " ",
   
 	   "isLocked": false,
@@ -99,8 +99,8 @@
 	  },
 	  {
 	  "image": "https://b.top4top.io/p_26358hh8j1.png",
-	   "title": "xxxx",
-	   "text": "xxxx",
+	   "title": "Conclusion",
+	   "text": "Overall, Insta Money Oficial Apk can be a useful tool for earning some extra cash in your free time. However, it's important to keep your expectations realistic and understand that you're not going to get rich overnight. ",
 	   "text_two": " ",
   
 	   "isLocked": false,

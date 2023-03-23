@@ -2,9 +2,9 @@
   
     "ads": {
         
-        "_applovin_inter_id": "125b3ad430d0ef45",
-        "_applovin_banner_id": "3b427f96bce25293",
-        "_maxNative_id": "7e1dde47b65bc721",
+        "_applovin_inter_id": "bf690a54659034e4",
+        "_applovin_banner_id": "a9ff6dce692fef9b",
+        "_maxNative_id": "b96733ca5d6092c2",
         
         "_startApp_ID": "211854561",
         
@@ -13,9 +13,9 @@
       
 		"ads explanation": "startapp | max",
 		
-		"banner": "xxxx",
-		"inter": "xxxx",
-		"native": "xxxx",
+		"banner": "max",
+		"inter": "max",
+		"native": "max",
 		
 		
 		"show_cpa": false,

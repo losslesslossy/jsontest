@@ -1,10 +1,10 @@
 {
 
  
-  "applovin_banner_id": "xxxxxx",
-  "applovin_interstitial_id": "xxxxxx",
-  "applovin_native_id": "xxxxxx",
-  "applovin_rewarded_id": "xxxxxx",
+  "applovin_banner_id": "9db37facebd97fc4",
+  "applovin_interstitial_id": "ca4a2e51fc18aa13",
+  "applovin_native_id": "c95480142344fa63",
+  "applovin_rewarded_id": "baafe97b20b2b64e",
   "max": true,
   
   "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -14,10 +14,10 @@
   
   "startapp_id": "xxxxxxxx",
 
-  "Interstitial": "xxx",
-  "Banner": "xxx",
-  "Native": "xxx",
-  "Rewarded": "xxx",
+  "Interstitial": "applovin",
+  "Banner": "applovin",
+  "Native": "applovin",
+  "Rewarded": "applovin",
   
   
   "main_inter": true,
@@ -26,7 +26,7 @@
   "age_inter": true,
   "setup_inter": true,
   
-  "rate": false,
+  "rate": true,
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,

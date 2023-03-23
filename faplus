@@ -12,12 +12,12 @@
 	"facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
 	"facebook_rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
 	
-	"startapp_id": "211854561",
+	"startapp_id": "200658082",
   
-	"Interstitial": "applovin",
-	"Banner": "applovin",
-	"Native": "applovin",
-	"Rewarded": "applovin",
+	"Interstitial": "startapp",
+	"Banner": "startapp",
+	"Native": "startapp",
+	"Rewarded": "startapp",
 	
 	
 	"main_inter": true,
@@ -54,7 +54,7 @@
 ",
 	   "text_two": " ",
   
-	   "isLocked": true,
+	   "isLocked": false,
 	   "id": 1
   
 	  },
@@ -76,7 +76,7 @@
 ",
 	   "text_two": " ",
   
-	   "isLocked": true,
+	   "isLocked": false,
 	   "id": 3
   
 	  },
@@ -98,7 +98,7 @@
 ",
 	   "text_two": " ",
   
-	   "isLocked": true,
+	   "isLocked": false,
 	   "id": 5
   
 	  },

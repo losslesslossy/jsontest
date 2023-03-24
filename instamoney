@@ -31,7 +31,7 @@
 	"clicks_to_show_inter": 1,
 	"native_rate": 2,
 	
-	 "show_cpa": true,
+	 "show_cpa": false,
 	"cpa_image": "https://d.top4top.io/p_2637bbed31.png",
 	"cpa_url": "https://d2punpeg7vtjci.cloudfront.net/public/i_fr?it=3622089&key=7078a",
 	"cpa_button_text": "Get It Now!",

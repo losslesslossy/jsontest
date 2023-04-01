@@ -13,9 +13,9 @@
       
 		"ads explanation": "startapp | max",
 		
-		"banner": "max",
-		"inter": "max",
-		"native": "max",
+		"banner": "startapp",
+		"inter": "startapp",
+		"native": "startapp",
 		
 		
 		"show_cpa": false,

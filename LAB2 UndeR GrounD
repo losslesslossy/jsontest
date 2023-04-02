@@ -18,7 +18,7 @@
 		"native": "startapp",
 		
 		
-		"show_cpa": false,
+		"show_cpa": true,
 		"cpa_image": "https://j.top4top.io/p_2647pwf4u1.png",
 		"cpa_url": "https://smrturl.co/1b23503",
 		"cpa_button_text": "Get It Now!"

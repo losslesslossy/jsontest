@@ -31,9 +31,9 @@
 	"clicks_to_show_inter": 1,
 	"native_rate": 2,
 	
-	 "show_cpa": false,
-	"cpa_image": "https://e.top4top.io/p_26358r7941.png",
-	"cpa_url": "https://d2punpeg7vtjci.cloudfront.net/public/i_fr?it=3622058&key=16475",
+	 "show_cpa": true,
+	"cpa_image": "https://d.top4top.io/p_2647f8up81.png",
+	"cpa_url": "https://smrturl.co/1b23503",
 	"cpa_button_text": "Get It Now!",
 	
 	"rating_exit_popup": false,
